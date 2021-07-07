@@ -1,0 +1,4 @@
+#进入build目录下
+rm -rf *
+cmake ..
+make
